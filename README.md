@@ -14,7 +14,7 @@
 
 ## WELCOME
 <div align="center">
-  <b>MY </b><img src="https://profile-counter.glitch.me/Christmas/count.svg" align="center" /><b> VISTORS</b>
+  <b>MY </b><img src="https://profile-counter.glitch.me/knight02-bit/count.svg" align="center" /><b> VISTORS</b>
 </div>
 
 
